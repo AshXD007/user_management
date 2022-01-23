@@ -153,6 +153,9 @@ table{
 #add_user .form-group .radio{
     margin: 1em 2em;
 }
+.delete{
+    cursor: pointer;
+}
 
 /* adding style to radio buttons */
 .radio input[type='radio']{
